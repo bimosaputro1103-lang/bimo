@@ -1,2 +1,4 @@
 # bimo
-membuat tugas
+-membuat tugas
+-mtk
+-arab
